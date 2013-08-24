@@ -11,6 +11,8 @@ public class Main {
 	 * @param args Any arguments from cmd or terminal
 	 */
 	public static void main(String[] args) {
+		
+		new SpotTheSum().run();
 		System.out.println("Hello World");
 	}
 }
